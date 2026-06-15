@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,25:2d1b69,50:4c1d95,75:6d28d9,100:7c3aed&height=230&section=header&text=Shahid%20Mihransha&fontSize=58&fontColor=e2e8f0&animation=twinkling&fontAlignY=34&desc=Full-Stack%20AI%20Engineer%20%E2%80%A2%20IoT%20Systems%20%E2%80%A2%20LegalTech%20Architect&descAlignY=56&descSize=16&descColor=c4b5fd" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,25:4d0000,50:8b0000,75:b22222,100:dc143c&height=230&section=header&text=Shahid%20Mihransha&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Full-Stack%20AI%20Engineer%20%E2%80%A2%20IoT%20Systems%20%E2%80%A2%20LegalTech%20Architect&descAlignY=56&descSize=16&descColor=ffcccc" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=70&lines=Building+privacy-first+AI+systems+that+run+locally;Flutter+%E2%80%A2+FastAPI+%E2%80%A2+Ollama+%E2%80%A2+RAG+Pipelines+%E2%80%A2+IoT" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=70&lines=Building+privacy-first+AI+systems+that+run+locally;Flutter+%E2%80%A2+FastAPI+%E2%80%A2+Ollama+%E2%80%A2+RAG+Pipelines+%E2%80%A2+IoT" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech_CSE_(IoT)-CGPA_8.05-7c3aed?style=for-the-badge&labelColor=1a0533" />
-  <img src="https://img.shields.io/badge/BSA_Crescent_Institute-Chennai-6d28d9?style=for-the-badge&labelColor=1a0533" />
-  <img src="https://img.shields.io/badge/Class_of-2027-4c1d95?style=for-the-badge&labelColor=1a0533" />
+  <img src="https://img.shields.io/badge/B.Tech_CSE_(IoT)-CGPA_8.05-dc143c?style=for-the-badge&labelColor=1a0000" />
+  <img src="https://img.shields.io/badge/BSA_Crescent_Institute-Chennai-b22222?style=for-the-badge&labelColor=1a0000" />
+  <img src="https://img.shields.io/badge/Class_of-2027-8b0000?style=for-the-badge&labelColor=1a0000" />
 </p>
 
 <p align="center">
@@ -27,11 +27,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShahidMihransha&label=Profile%20Views&color=7c3aed&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=ShahidMihransha&label=Profile%20Views&color=dc143c&style=flat-square" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/ShahidMihransha?label=Followers&style=flat-square&color=6d28d9&labelColor=1a0533" />
+  <img src="https://img.shields.io/github/followers/ShahidMihransha?label=Followers&style=flat-square&color=b22222&labelColor=1a0000" />
   &nbsp;
-  <img src="https://img.shields.io/github/stars/ShahidMihransha?label=Stars&style=flat-square&color=4c1d95&labelColor=1a0533&affiliations=OWNER" />
+  <img src="https://img.shields.io/github/stars/ShahidMihransha?label=Stars&style=flat-square&color=8b0000&labelColor=1a0000&affiliations=OWNER" />
 </p>
 
 ---
@@ -53,27 +53,25 @@ Beyond software, I design hardware-integrated systems — gesture-controlled veh
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,dart,cpp,c,java&theme=dark" />
 </p>
-
 <p align="center"><sub><b>Languages</b></sub></p>
+<br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,fastapi&theme=dark" />
 </p>
-
 <p align="center"><sub><b>Frontend & Backend</b></sub></p>
+<br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=supabase,postgres,git,github,vscode,linux,arduino,raspberrypi&theme=dark" />
 </p>
-
 <p align="center"><sub><b>Databases, DevOps & Embedded</b></sub></p>
-
 <br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ollama-Local_LLM-000000?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/LlamaIndex-RAG_Framework-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/ChromaDB-Vector_Store-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/LlamaIndex-RAG_Framework-DC143C?style=flat-square" />
+  <img src="https://img.shields.io/badge/ChromaDB-Vector_Store-FF4C4C?style=flat-square" />
   <img src="https://img.shields.io/badge/HuggingFace-Embeddings-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/ESP32-Microcontroller-E7352C?style=flat-square&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
@@ -88,12 +86,12 @@ Beyond software, I design hardware-integrated systems — gesture-controlled veh
 
 | Domain | Proficiency | Details |
 |--------|:-----------:|---------|
-| **LLM Deployment** | ██████████ | Local inference with Ollama (Qwen3:8b), prompt engineering, 5-type query classifiers, multi-turn context gathering |
-| **RAG Pipelines** | ██████████ | LlamaIndex + ChromaDB + BGE-small-en-v1.5 embeddings over Indian legal statutes |
-| **Document AI** | ████████░░ | 10-type document classifier, automated PDF→Markdown pipelines, fidelity verification gates |
-| **Computer Vision** | ███████░░░ | OpenCV + MediaPipe gesture recognition for real-time vehicle control over UDP/TCP |
-| **ML Fundamentals** | ████████░░ | Model evaluation, benchmarking, HuggingFace ecosystem, embedding model selection |
-| **Privacy Engineering** | ██████████ | PII scrubbing (Aadhaar, PAN, phone, email), on-device ML Kit OCR, zero-cloud architecture |
+| **LLM Deployment** | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 | Local inference with Ollama (Qwen3:8b), prompt engineering, 5-type query classifiers, multi-turn context gathering |
+| **RAG Pipelines** | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 | LlamaIndex + ChromaDB + BGE-small-en-v1.5 embeddings over Indian legal statutes |
+| **Document AI** | 🟥🟥🟥🟥🟥🟥🟥🟥⬛⬛ | 10-type document classifier, automated PDF→Markdown pipelines, fidelity verification gates |
+| **Computer Vision** | 🟥🟥🟥🟥🟥🟥🟥⬛⬛⬛ | OpenCV + MediaPipe gesture recognition for real-time vehicle control over UDP/TCP |
+| **ML Fundamentals** | 🟥🟥🟥🟥🟥🟥🟥🟥⬛⬛ | Model evaluation, benchmarking, HuggingFace ecosystem, embedding model selection |
+| **Privacy Engineering**| 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 | PII scrubbing (Aadhaar, PAN, phone, email), on-device ML Kit OCR, zero-cloud architecture |
 
 </div>
 
@@ -194,26 +192,16 @@ Designed an ESP32-based energy monitoring system using ACS712 (current) and ZMPT
 
 ---
 
-## ◈ Coding Profiles
-
-<p align="center">
-  <a href="https://www.hackerrank.com/ShahidMihransha">
-    <img src="https://img.shields.io/badge/HackerRank-ShahidMihransha-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## ◈ GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShahidMihransha&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShahidMihransha&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF4C4C&icon_color=DC143C&text_color=c9d1d9&ring_color=DC143C" />
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahidMihransha&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahidMihransha&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=FF4C4C&text_color=c9d1d9" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ShahidMihransha&theme=midnight-purple&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=6B7280" />
+  <img src="https://streak-stats.demolab.com/?user=ShahidMihransha&theme=dark&hide_border=true&background=0D1117&ring=DC143C&fire=FF4C4C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=6B7280" />
 </p>
 
 ---
@@ -229,7 +217,7 @@ Designed an ESP32-based energy monitoring system using ACS712 (current) and ZMPT
 ## ◈ Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShahidMihransha&theme=high-contrast&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=4c1d95" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShahidMihransha&theme=github-dark&hide_border=true&bg_color=0d1117&color=FF4C4C&line=DC143C&point=ffffff&area=true&area_color=8B0000" />
 </p>
 
 ---
@@ -239,12 +227,6 @@ Designed an ESP32-based energy monitoring system using ACS712 (current) and ZMPT
 <p align="center">
   <img src="https://raw.githubusercontent.com/ShahidMihransha/ShahidMihransha/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
-
-<!--
-  To enable the snake animation, create a GitHub Actions workflow in your profile repo:
-  .github/workflows/snake.yml — uses Platane/snk@v3
-  See: https://github.com/Platane/snk
--->
 
 ---
 
@@ -270,30 +252,3 @@ Open To:
   - Full-Stack Development Roles
   - IoT & Embedded Systems Projects
   - LegalTech & GovTech Collaborations
-```
-
----
-
-## ◈ Connect
-
-<p align="center">
-  <a href="mailto:ShahidMihransha@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ShahidMihransha@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://linkedin.com/in/shahidmihransha">
-    <img src="https://img.shields.io/badge/LinkedIn-shahidmihransha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://github.com/ShahidMihransha">
-    <img src="https://img.shields.io/badge/GitHub-ShahidMihransha-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <em>"Privacy is not about having something to hide. It's about having the right to choose what to share."</em>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,25:2d1b69,50:4c1d95,75:6d28d9,100:7c3aed&height=120&section=footer" />
-</p>
