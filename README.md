@@ -86,12 +86,12 @@ Beyond software, I design hardware-integrated systems — gesture-controlled veh
 
 | Domain | Proficiency | Details |
 |--------|:-----------:|---------|
-| **LLM Deployment** | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 | Local inference with Ollama (Qwen3:8b), prompt engineering, 5-type query classifiers, multi-turn context gathering |
-| **RAG Pipelines** | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 | LlamaIndex + ChromaDB + BGE-small-en-v1.5 embeddings over Indian legal statutes |
-| **Document AI** | 🟥🟥🟥🟥🟥🟥🟥🟥⬛⬛ | 10-type document classifier, automated PDF→Markdown pipelines, fidelity verification gates |
-| **Computer Vision** | 🟥🟥🟥🟥🟥🟥🟥⬛⬛⬛ | OpenCV + MediaPipe gesture recognition for real-time vehicle control over UDP/TCP |
-| **ML Fundamentals** | 🟥🟥🟥🟥🟥🟥🟥🟥⬛⬛ | Model evaluation, benchmarking, HuggingFace ecosystem, embedding model selection |
-| **Privacy Engineering**| 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 | PII scrubbing (Aadhaar, PAN, phone, email), on-device ML Kit OCR, zero-cloud architecture |
+| **LLM Deployment** | 🟥🟥🟥🟥🟥 | Local inference with Ollama (Qwen3:8b), prompt engineering, 5-type query classifiers, multi-turn context gathering |
+| **RAG Pipelines** | 🟥🟥🟥🟥🟥 | LlamaIndex + ChromaDB + BGE-small-en-v1.5 embeddings over Indian legal statutes |
+| **Document AI** | 🟥🟥🟥🟥⬛ | 10-type document classifier, automated PDF→Markdown pipelines, fidelity verification gates |
+| **Computer Vision** | 🟥🟥🟥⬛⬛ | OpenCV + MediaPipe gesture recognition for real-time vehicle control over UDP/TCP |
+| **ML Fundamentals** | 🟥🟥🟥🟥⬛ | Model evaluation, benchmarking, HuggingFace ecosystem, embedding model selection |
+| **Privacy Engineering**| 🟥🟥🟥🟥🟥 | PII scrubbing (Aadhaar, PAN, phone, email), on-device ML Kit OCR, zero-cloud architecture |
 
 </div>
 
@@ -195,7 +195,7 @@ Designed an ESP32-based energy monitoring system using ACS712 (current) and ZMPT
 ## ◈ GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShahidMihransha&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF4C4C&icon_color=DC143C&text_color=c9d1d9&ring_color=DC143C" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShahidMihransha&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF4C4C&icon_color=DC143C&text_color=c9d1d9&ring_color=DC143C" />
   &nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahidMihransha&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=FF4C4C&text_color=c9d1d9" />
 </p>
