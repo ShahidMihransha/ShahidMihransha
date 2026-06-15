@@ -86,12 +86,12 @@ Beyond software, I design hardware-integrated systems — gesture-controlled veh
 
 | Domain | Proficiency | Details |
 |--------|:-----------:|---------|
-| **LLM Deployment** | 🟥🟥🟥🟥🟥 | Local inference with Ollama (Qwen3:8b), prompt engineering, 5-type query classifiers, multi-turn context gathering |
-| **RAG Pipelines** | 🟥🟥🟥🟥🟥 | LlamaIndex + ChromaDB + BGE-small-en-v1.5 embeddings over Indian legal statutes |
-| **Document AI** | 🟥🟥🟥🟥⬛ | 10-type document classifier, automated PDF→Markdown pipelines, fidelity verification gates |
-| **Computer Vision** | 🟥🟥🟥⬛⬛ | OpenCV + MediaPipe gesture recognition for real-time vehicle control over UDP/TCP |
-| **ML Fundamentals** | 🟥🟥🟥🟥⬛ | Model evaluation, benchmarking, HuggingFace ecosystem, embedding model selection |
-| **Privacy Engineering**| 🟥🟥🟥🟥🟥 | PII scrubbing (Aadhaar, PAN, phone, email), on-device ML Kit OCR, zero-cloud architecture |
+| **LLM Deployment** | <img src="https://geps.dev/progress/100?color=dc143c" width="120" /> | Local inference with Ollama (Qwen3:8b), prompt engineering, 5-type query classifiers |
+| **RAG Pipelines** | <img src="https://geps.dev/progress/100?color=dc143c" width="120" /> | LlamaIndex + ChromaDB + BGE-small embeddings over Indian legal statutes |
+| **Privacy Engineering**| <img src="https://geps.dev/progress/100?color=dc143c" width="120" /> | PII scrubbing (Aadhaar, PAN, phone, email), on-device ML Kit OCR, zero-cloud architecture |
+| **Document AI** | <img src="https://geps.dev/progress/80?color=dc143c" width="120" /> | 10-type document classifier, automated PDF→Markdown pipelines, fidelity gates |
+| **ML Fundamentals** | <img src="https://geps.dev/progress/80?color=dc143c" width="120" /> | Model evaluation, benchmarking, HuggingFace ecosystem, embedding model selection |
+| **Computer Vision** | <img src="https://geps.dev/progress/60?color=dc143c" width="120" /> | OpenCV + MediaPipe gesture recognition for real-time vehicle control over UDP/TCP |
 
 </div>
 
@@ -112,16 +112,14 @@ TechVakkil democratizes access to Indian law by combining a locally-deployed LLM
 | Dimension | Details |
 |-----------|---------|
 | **Stack** | Flutter (web + mobile), FastAPI, Supabase (PostgreSQL), Ollama (Qwen3:8b), LlamaIndex, ChromaDB, HuggingFace BGE embeddings |
-| **AI Architecture** | 5-type query classifier, 10-type document analyzer, multi-turn context gathering with `[CLARIFY]` tags, RAG with `similarity_top_k=8` |
+| **AI Architecture** | 5-type query classifier, 10-type document analyzer, multi-turn context gathering, RAG with `similarity_top_k=8` |
 | **Scale** | 7+ Indian acts indexed, 13 verified lawyer profiles, persistent chat history, per-user document vault with Supabase Storage |
-| **Security** | RLS on all 7 tables, PII scrubbing on client + server, on-device ML Kit OCR, private storage bucket, zero external API calls |
-| **Compliance** | BCI Rule 36 enforcement (no lawyer ratings in UI, no success-rate advertising), legal disclaimer middleware, guided templates over freeform drafting |
-| **Impact** | Targets 1.4B Indians — most of whom can't afford or access legal counsel for everyday disputes |
+| **Security** | RLS on all tables, PII scrubbing on client + server, on-device ML Kit OCR, private storage bucket, zero external API calls |
 | **Repository** | [`TechVakkil`](https://github.com/ShahidMihransha/TechVakkil) |
 
 </div>
 
-**Key surfaces:** AI Legal Chat · Document Analyzer · Lawyer Marketplace · Document Vault · Law Library (7 acts with case examples) · In-app Realtime Messaging
+**Key surfaces:** AI Legal Chat · Document Analyzer · Lawyer Marketplace · Document Vault · Law Library
 
 </details>
 
@@ -138,10 +136,7 @@ Built a full-stack IoT vehicle where Python + OpenCV + MediaPipe recognizes hand
 | Dimension | Details |
 |-----------|---------|
 | **Stack** | C++, Python, OpenCV, MediaPipe, ESP32, L298N motor driver, ACS712 current sensor, UDP/TCP networking |
-| **Architecture** | Host (gesture recognition) → UDP/TCP → ESP32 VCU → PWM motor control · BMS runs edge-side with real-time telemetry |
 | **Safety** | Hardware-interrupt AEB (not software-polled), dynamic torque curves based on live power budget, fail-safe motor cutoff |
-| **Performance** | Real-time gesture → command latency, continuous power monitoring at sensor-native sampling rates |
-| **Impact** | Demonstrates viable edge computing for autonomous safety systems without cloud dependency |
 
 </div>
 
@@ -160,9 +155,7 @@ Designed an ESP32-based energy monitoring system using ACS712 (current) and ZMPT
 | Dimension | Details |
 |-----------|---------|
 | **Stack** | ESP32, Arduino IDE, ACS712, ZMPT101B, 4-channel relay board |
-| **Monitoring** | Real-time current, voltage, and power factor calculation at sensor-native rates |
 | **Safety** | Automated relay-triggered cutoffs during overcurrent, overvoltage, or abnormal load conditions |
-| **Impact** | Prevents electrical hazards in residential/small-commercial settings without expensive industrial breakers |
 
 </div>
 
@@ -196,36 +189,10 @@ Designed an ESP32-based energy monitoring system using ACS712 (current) and ZMPT
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShahidMihransha&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF4C4C&icon_color=DC143C&text_color=c9d1d9&ring_color=DC143C" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahidMihransha&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=FF4C4C&text_color=c9d1d9" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ShahidMihransha&theme=dark&hide_border=true&background=0D1117&ring=DC143C&fire=FF4C4C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=6B7280" />
-</p>
-
----
-
-## ◈ Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShahidMihransha&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8" />
-</p>
-
----
-
-## ◈ Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShahidMihransha&theme=github-dark&hide_border=true&bg_color=0d1117&color=FF4C4C&line=DC143C&point=ffffff&area=true&area_color=8B0000" />
-</p>
-
----
-
-## ◈ Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ShahidMihransha/ShahidMihransha/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
